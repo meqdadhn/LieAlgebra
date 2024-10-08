@@ -1,0 +1,3 @@
+/home/meghdad/Dev/LieAlgebra/build/CMakeFiles/rebuild_cache.dir
+/home/meghdad/Dev/LieAlgebra/build/CMakeFiles/edit_cache.dir
+/home/meghdad/Dev/LieAlgebra/build/CMakeFiles/LieAlgebra.dir
